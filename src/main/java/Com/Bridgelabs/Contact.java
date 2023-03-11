@@ -16,6 +16,7 @@ public class Contact {
             this.city = city;
             this.state = state;
             this.ContactNumber = ContactNumber;
+            this.gmail=gmail;
     }
     public String getName() {
         return name;
