@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="914ea805-e2db-46b7-9502-a7d5b45ad0b7" name="Changes" comment="" />
+    <list default="true" id="914ea805-e2db-46b7-9502-a7d5b45ad0b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/AddressBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/AddressBookMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Com/Bridgelabs/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/AddressBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/AddressBookMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/AddressBookMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/Contact.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Com/Bridgelabs/Contact.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,6 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2MpJQA1Ipt5hEXqIrA7Dlykwh0n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
